@@ -5,7 +5,9 @@ package org.ziyuan;
  * @date 2023/8/3 18:24
  */
 public class Merge {
-
+    public void test(){
+        System.out.println("test");
+    }
 }
 
 
